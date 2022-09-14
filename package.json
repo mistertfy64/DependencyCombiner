@@ -1,0 +1,19 @@
+{
+  "name": "dependencycombiner",
+  "version": "1.0.0",
+  "description": "hi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mistertfy64/DependencyCombiner.git"
+  },
+  "author": "mistertfy64",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mistertfy64/DependencyCombiner/issues"
+  },
+  "homepage": "https://github.com/mistertfy64/DependencyCombiner#readme"
+}
