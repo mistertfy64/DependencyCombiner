@@ -10,6 +10,9 @@ node index.js /path/to/file1.json /path/to/file2.json /path/to/outputfile.json
 ## Disclaimer
 I made this in like two hours, so expect it to break. This also doesnt update your actual dependenices (`npm i`).
 
+## License
+MIT
+
 ## Why (Personal Opinions Ahead)
 Due to my poor design choices for my commerical-hobby math webgame [Mathematical Base Defenders](https://mathematicalbasedefenders.com), the repository containing the source code for the regular website and the repository containing the source code for the `play` subdomain, that is, the game website, are two seperate repositories.
 
